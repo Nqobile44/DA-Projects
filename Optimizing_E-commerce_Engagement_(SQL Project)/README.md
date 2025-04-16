@@ -17,6 +17,11 @@ This project analyzes e-commerce customer behavior using a relational SQL databa
 ## Demo
 
 [Add a screenshot or GIF of your app working here if applicable.]
+![Screenshot 2025-04-12 114707](https://github.com/user-attachments/assets/d0b71bbc-17c9-4a6f-921a-f0a1a136eeda)
+![Screenshot 2025-04-12 155054](https://github.com/user-attachments/assets/ec3e69e5-d752-4d49-bfc7-f0100f576202)
+![Screenshot 2025-04-12 181345](https://github.com/user-attachments/assets/8a8c1950-a999-4cab-b058-8a7cf150a169)
+![Screenshot 2025-04-16 095950](https://github.com/user-attachments/assets/4be81801-218e-4932-9e7e-ee35003d3b0b)
+![Screenshot 2025-04-16 100042](https://github.com/user-attachments/assets/01286e9a-a882-4381-9906-73470634b860)
 
 ---
 
