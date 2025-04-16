@@ -83,4 +83,4 @@ Each query was written with a short business-driven comment explaining its purpo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rain-alert-notifications-system.git
+   git clone [https://github.com/your-username/rain-alert-notifications-system.git](https://github.com/Nqobile44/DA-Projects/tree/89de8fd06189141a801c9e5d5d2d0aec21d9835c/Optimizing_E-commerce_Engagement_(SQL%20Project))
