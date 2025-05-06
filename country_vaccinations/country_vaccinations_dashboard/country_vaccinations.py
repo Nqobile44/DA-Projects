@@ -41,7 +41,7 @@ Detailed Insights:
 st.set_page_config(layout="wide")
 
 st.markdown("<h1 style='text-align: center;'>Country Vaccinations</h1>", unsafe_allow_html=True)
-df = pd.read_csv('country_vaccinations_dashboard/data/country_vaccination/country_vaccinations.csv')
+df = pd.read_csv('data/country_vaccination/country_vaccinations.csv')
 df['date'] = pd.to_datetime(df['date'])
 total_vaccin = df['total_vaccinations'].sum()
 total_peo_vaccin = df['people_fully_vaccinated'].sum()
