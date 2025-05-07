@@ -43,7 +43,8 @@ Detailed Insights:
 st.set_page_config(layout="wide")
 
 st.markdown("<h1 style='text-align: center;'>Country Vaccinations</h1>", unsafe_allow_html=True)
-df = pd.read_csv('../data/country_vaccination/country_vaccinations.csv')
+url_data = "https://raw.githubusercontent.com/Nqobile44/DA-Projects/refs/heads/main/country_vaccinations/country_vaccinations_dashboard/data/country_vaccination/country_vaccinations.csv"
+df = pd.read_csv(url_data)
 df['date'] = pd.to_datetime(df['date'])
 month_to_month = df['date'].dt.strftime('%Y-%m').copy()
 total_vaccin = df['total_vaccinations'].sum()
